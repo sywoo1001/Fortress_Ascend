@@ -1,0 +1,2 @@
+Fortress filter=lfs diff=lfs merge=lfs -text
+Ascend_Data/sharedassets3.assets.resS filter=lfs diff=lfs merge=lfs -text
